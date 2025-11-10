@@ -21,6 +21,11 @@ It features a smooth UI, dark mode 🌙, question review section, and record tra
 ✅ **Smooth Animations** and intuitive UX.
 
 ---
+## 🎨 VERCEL
+
+Vercel link: https://fullstack-auth-app-jmzc.vercel.app/
+
+---
 
 ## 🧩 Tech Stack
 
@@ -129,7 +134,7 @@ technical-quiz-app/
 
 ---
 
-## 🎨 Screenshots
+## Screenshots
 
 🌞 <img src="https://github.com/user-attachments/assets/b7acaca5-60b3-4de1-b3da-2fa630032fbf" width = "30%" />  Light Mode
 
